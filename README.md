@@ -7,8 +7,6 @@ DarkblooM's Desk Pack is a simple CIT resource pack that adds wooden desks to Mi
 ## How do I use it?
 Simply install [Optifine](https://optifine.net/home), then download the latest [release](https://github.com/DarkblooM-SR/DBDP/releases) of DBDP and put it inside the **resourcepacks** folder in your **.minecraft** directory.
 
-Make sure that your resource pack list looks like this:
-
 Once that's done, open a Minecraft world, take the wooden planks block of your choice and, using an anvil, rename it "Desk Right" or "Desk Left" depending on the orientation you want. Then, put an item frame on the floor and put your desk inside, and voilà!
 
 ![All desk variants](https://raw.githubusercontent.com/DarkblooM-SR/DBDP/main/screenshots/2022-03-02_14.19.43.png)
