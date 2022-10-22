@@ -20,7 +20,7 @@ You can use trapdoors to put decorations on top of your desk.
 ![Flower pot](https://raw.githubusercontent.com/DarkblooM-SR/DBDP/main/screenshots/2022-03-02_14.38.23.png)
 
 
-You can use a resource pack that makes item frames invisible for a better effect. I recommand [Mizuno's Invisible Item Frames](https://www.mediafire.com/file/mn932cxhvd38ilw/Invisible_Item_Frame_Pack_1.18.1-1.0.zip/file).
+You can use a resource pack that makes item frames invisible for a better effect. I recommend [Mizuno's Invisible Item Frames](https://www.mediafire.com/file/mn932cxhvd38ilw/Invisible_Item_Frame_Pack_1.18.1-1.0.zip/file).
 
 
 I made the models so they have what I call adaptive textures, so the look of the desks will match whatever texture pack you are using.
